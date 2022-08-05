@@ -45,8 +45,8 @@ let resumeData = {
       {
         "CompanyName":"black Girls In Tech (BGIT)",
         "specialization":"Frontend",
-        "MonthOfLeaving":"March",
-        "YearOfLeaving":"2021",
+        "MonthOfLeaving":"March ",
+        "YearOfLeaving":"2021- June 2022",
         "Achievements":"HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT"
       }
     ],
@@ -64,26 +64,19 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"portfolio",
-        "description":"a simple portfolio built with HTML and CSS",
+        "name":"first project",
+        "description":" a simple porfolio website with bootstrap and css",
         "imgurl":"images/portfolio/coffee.jpg",
-         "link": "https://olaideaduke.netlify.app/"
+         "link": "https://firsttimeproject.netlify.app/"
+         
       },
+     
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/console.jpg"
+        "name":"portfolio",
+        "description":"a simple portfolio built with HTML and CSS",  
+        "imgurl":"images/portfolio/girl.jpg",
+        "link": "https://olaideaduke.netlify.app",
       },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/girl.jpg"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/retrocam.jpg"
-      }
     ],
     "testimonials":[
       {

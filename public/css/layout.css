@@ -425,11 +425,19 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
+#portfolio-wrapper{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 100%;
+}
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap  {
    background: #fff;
    overflow: hidden;
    position: relative;
+   
+   
 
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -438,7 +446,6 @@ ul#nav li.current a { color: #F06000; }
 	transition: all 0.3s ease-in-out;
 }
 .portfolio-item .item-wrap a {
-   border: 5px solid black;
    display: block;
    cursor: pointer;
 }

@@ -15,6 +15,8 @@ export default class Porfolio extends Component {
                   <div className="item-wrap">
                   
                     <a href={`${item.link}`} target="_blank" rel="noopener noreferrer" key={index}>
+                    
+                  
                       <img src={`${item.imgurl}`} alt="portfolio" className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
