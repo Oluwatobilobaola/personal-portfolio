@@ -45,12 +45,12 @@ let resumeData = {
       {
         "CompanyName":"black Girls In Tech (BGIT)",
         "specialization":"Frontend",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"till date",
-        "Achievements":"HTML, CSS, JAVASCRIPT, REACT"
+        "MonthOfLeaving":"March",
+        "YearOfLeaving":"2021",
+        "Achievements":"HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT"
       }
     ],
-    "skillsDescription":"HTML, CSS, JAVASCRIPT, REACT.",
+    "skillsDescription":"HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT.",
     "skills":[
       {
         "skillname":"HTML5"
@@ -64,9 +64,10 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "name":"portfolio",
+        "description":"a simple portfolio built with HTML and CSS",
+        "imgurl":"images/portfolio/coffee.jpg",
+         "link": "https://olaideaduke.netlify.app/"
       },
       {
         "name":"project2",
