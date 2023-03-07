@@ -66,6 +66,9 @@ let resumeData = {
       },
       {
         "skillname":"Bootstrap"
+      },
+      {
+        "skillname":"Technical-Writing"
       }
     ],
     // "portfolio":[
