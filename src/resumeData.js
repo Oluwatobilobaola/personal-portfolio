@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Awonuga Olaide",
-    "role": "Frontend Developer ",
+    "role": "Front End  Web Developer ",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles.",
+    "roleDescription": " I like dabbling in various parts of frontend development and I like to learn about new technologies and I write technical articles.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -40,7 +40,7 @@ let resumeData = {
         "specialization":"Telesales",
         "MonthOfLeaving":"May",
         "YearOfLeaving":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":"Provided support for customers, answered customer questions through phone calls, chats, in-person and social media interactions. solved customers challenges amd pain point immediately and effectively."
       },
       {
         "CompanyName":"black Girls In Tech (BGIT)",
@@ -59,25 +59,31 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
+        "skillname":"Javascript"
+      },
+      {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Bootstrap"
       }
     ],
-    "portfolio":[
-      {
-        "name":"first project",
-        "description":" a simple porfolio website with bootstrap and css",
-        "imgurl":"images/portfolio/coffee.jpg",
-         "link": "https://firsttimeproject.netlify.app/"
+    // "portfolio":[
+    //   {
+    //     "name":"first project",
+    //     "description":" a simple porfolio website with bootstrap and css",
+    //     "imgurl":"images/portfolio/coffee.jpg",
+    //      "link": "https://firsttimeproject.netlify.app/"
          
-      },
+    //   },
      
-      {
-        "name":"portfolio",
-        "description":"a simple portfolio built with HTML and CSS",  
-        "imgurl":"images/portfolio/girl.jpg",
-        "link": "https://olaideaduke.netlify.app",
-      },
-    ],
+    //   {
+    //     "name":"portfolio",
+    //     "description":"a simple portfolio built with HTML and CSS",  
+    //     "imgurl":"images/portfolio/girl.jpg",
+    //     "link": "https://olaideaduke.netlify.app",
+    //   },
+    // ],
     "testimonials":[
       {
         "description":"There is no doubt in my mind that without the Black girls in Tech, I would not have been able to make the leap to the tech world. I started in 2021, the projects I got through the Black Girls in Tech made it possible for me to have somthing to build on. I have done so many projects on my own.",
